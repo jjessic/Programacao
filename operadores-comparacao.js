@@ -1,6 +1,6 @@
 const numero1 = 50;
 const numero2 = '50';
-const variavelControle = true;
+const variavelControle = true
 
 if (variavelControle) { 
     console.log('A condição é verdadeira');
